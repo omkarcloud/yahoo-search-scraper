@@ -53,7 +53,7 @@ def do_request(data, retry_count=3):
 
         update_credits()
         # print(response_data)
-        bt.write_json(response_data, "response.json")
+        # bt.write_json(response_data, "response.json")
         if response.status_code  == 404:
             print(f"No data found")
             

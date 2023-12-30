@@ -1,8 +1,8 @@
 {
     "data": {
         "count": 7,
-        "next": "https://yahoo-scraper.p.rapidapi.com/search/?query=mango&offset=14",
-        "previous": "https://yahoo-scraper.p.rapidapi.com/search/?query=mango&offset=0",
+        "next": "https://yahoo-search-scraper.p.rapidapi.com/search/?query=mango&offset=14",
+        "previous": "https://yahoo-search-scraper.p.rapidapi.com/search/?query=mango&offset=0",
         "results": [
             {
                 "title": "Fashion for Women | Mango USA",
