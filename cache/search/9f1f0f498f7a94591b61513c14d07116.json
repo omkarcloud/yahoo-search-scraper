@@ -1,0 +1,60 @@
+{
+    "data": {
+        "count": 7,
+        "next": "https://yahoo-scraper.p.rapidapi.com/search/?query=watermelon&offset=14",
+        "previous": "https://yahoo-scraper.p.rapidapi.com/search/?query=watermelon&offset=0",
+        "results": [
+            {
+                "title": "Watermelon 101: Nutrition Facts and Health Benefits",
+                "link": "https://www.healthline.com/nutrition/foods/watermelon",
+                "description": "Oct 24, 2023 \u00b7 Watermelon is a low-calorie, high-water fruit that contains citrulline and lycopene, two powerful plant compounds linked to lower blood pressure, improved metabolic health, and reduced muscle soreness. Learn more about the nutrition facts, health benefits, and how to enjoy watermelon in various ways."
+            },
+            {
+                "title": "Top 9 Health Benefits of Eating Watermelon",
+                "link": "https://www.healthline.com/nutrition/watermelon-health-benefits",
+                "description": null
+            },
+            {
+                "title": "Watermelon - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Watermelon",
+                "description": "Watermelon (Citrullus lanatus) is a flowering plant species of the Cucurbitaceae family and the name of its edible fruit. A scrambling and trailing vine -like plant, it is a highly cultivated fruit worldwide, with more than 1,000 varieties ."
+            },
+            {
+                "title": "Nutrition Facts and Health Benefits of Watermelon",
+                "link": "https://www.watermelon.org/the-slice/nutrition-facts-and-health-benefits-of-watermelon/",
+                "description": null
+            },
+            {
+                "title": "Watermelon Nutrition Facts and Health Benefits - Verywell Fit",
+                "link": "https://www.verywellfit.com/nutrition-facts-and-watermelon-carbs-1087575",
+                "description": "Mar 29, 2022 \u00b7 Learn how watermelon is a low-calorie, hydrating, and antioxidant-rich summer fruit that can help fight dehydration, blood pressure, infections, and cancer. Find out the glycemic index, fiber, sugar, protein, vitamin C, and lycopene content of watermelon, as well as its allergens and adverse effects."
+            },
+            {
+                "title": "Watermelon: Nutrition, Health Benefits, Risks, More",
+                "link": "https://www.everydayhealth.com/diet-nutrition/diet/watermelon-nutrition-carbs-benefits-more-on-summer-staple/",
+                "description": "Jul 20, 2022 \u00b7 Watermelon is a hydrating fruit that is healthy for most people, including individuals with diabetes, when eaten in moderation. Some research suggests it may even promote heart health by lowering ..."
+            },
+            {
+                "title": "Watermelon Nutrition Facts and Health Benefits - Verywell Fit",
+                "link": "https://www.verywellfit.com/nutrition-facts-and-watermelon-carbs-1087575",
+                "description": "Mar 29, 2022 \u00b7 Debra Manzella, MS, RN, is a corporate clinical educator at Catholic Health System in New York with extensive experience in diabetes care. One cup diced watermelon (152g) provides 46 calories, 0.9g of protein, 11.5g of carbohydrates, and 0.2g of fat. Watermelon is an excellent source of lycopene and vitamins A and C."
+            },
+            {
+                "title": "Health Benefits of Watermelon - Cleveland Clinic Health ...",
+                "link": "https://health.clevelandclinic.org/benefits-of-watermelon",
+                "description": "Feb 23, 2023 \u00b7 Even watermelon seeds have benefits, with magnesium, iron, healthy fats and zinc. One cup of diced watermelon has only 46 calories and: 0 g of fat. 1 mg of sodium. 9 g of sugar. 10 mg of calcium ..."
+            },
+            {
+                "title": "Nutrition Facts and Health Benefits of Watermelon",
+                "link": "https://www.watermelon.org/the-slice/nutrition-facts-and-health-benefits-of-watermelon/",
+                "description": "Watermelon also provides us with vitamin B6 (8% DV) and potassium (6% DV). 1,2 Vitamin B6 is used in protein metabolism and plays a role in cognitive development and immune function as well. [4]. Potassium is a mineral necessary for water balance and is found inside of every cell. 2. At 92% water, watermelon is an excellent and delicious way to ..."
+            },
+            {
+                "title": "The Health Benefits of Watermelon: Nutrition, Facts, Safety",
+                "link": "https://www.verywellhealth.com/benefits-of-watermelon-7498099",
+                "description": "May 31, 2023 \u00b7 The watermelon's often overlooked rind (green outer layer) is a good source of fiber and contains other essential nutrients like potassium and antioxidants. You can eat watermelon rind raw or incorporate it into baked dishes and stir-fries. When raw, it has a taste similar to that of a cucumber."
+            }
+        ]
+    },
+    "error": null
+}

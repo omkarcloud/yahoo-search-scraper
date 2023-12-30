@@ -1,0 +1,60 @@
+{
+    "data": {
+        "count": 7,
+        "next": "https://yahoo-scraper.p.rapidapi.com/search/?query=mango&offset=14",
+        "previous": "https://yahoo-scraper.p.rapidapi.com/search/?query=mango&offset=0",
+        "results": [
+            {
+                "title": "Fashion for Women | Mango USA",
+                "link": "https://shop.mango.com/us/women",
+                "description": "Latest trends in fashion for women. Discover our designs: dresses, tops, jeans, shoes, bags and accessories. Free delivery from US$50 - Returns within 30 days - Pay in 4 interest-free installments."
+            },
+            {
+                "title": "Mango - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Mango",
+                "description": "Mango fruits \u2013 single and halved. A mango is an edible stone fruit produced by the tropical tree Mangifera indica. It is believed to have originated in southern Asia, particularly in eastern India, Bangladesh, and the Andaman Islands."
+            },
+            {
+                "title": "Mango: Nutrition, Health Benefits, and How to Eat It",
+                "link": "https://www.healthline.com/nutrition/mango",
+                "description": null
+            },
+            {
+                "title": "Learn About Mango Fruit - Facts, Nutrition, & More | Mango Board",
+                "link": "https://www.mango.org/about-mangos/",
+                "description": "Learn all about mangos. From their journey on the mango tree, how to choose them at the grocery store and how to cut them. Visit Mango.org today!"
+            },
+            {
+                "title": "Mango: Health Benefits, Nutrients per Serving, Preparation ...",
+                "link": "https://www.webmd.com/diet/health-benefits-mango",
+                "description": "Mangoes are sweet, colorful, and nutritious fruits that can help lower your risk of cancer, support your heart health, and improve your digestive health. Learn about the types, nutrition, preparation, and benefits of mangoes from WebMD."
+            },
+            {
+                "title": "Homepage | Mango Languages",
+                "link": "https://mangolanguages.com/",
+                "description": "Microsoft is an American multinational corporation that develops, manufactures, licenses, supports, and sells a range of software products and services. Over 70 languages to explore Highest-rated language-learning app* 4.8 Start Your Journey How it works Learn it Learn with proven linguistic methodology that ..."
+            },
+            {
+                "title": "31 Mango Recipes That Taste Like Pure Gold | Bon App\u00e9tit",
+                "link": "https://www.bonappetit.com/recipes/slideshow/mango-recipes",
+                "description": "Mar 11, 2022 \u00b7 Tropical Trifle With Coconut and Rum. This creamy mango dessert features a coconut\u2013chia seed pudding and a rum-soaked combo of fresh fruit (we went with mangoes, bananas, and star fruit, but you ..."
+            },
+            {
+                "title": "Moda de Mulher | Mango Portugal",
+                "link": "https://shop.mango.com/pt/mulher",
+                "description": "\u00daltimas tend\u00eancias em moda para mulheres. Descubra os nossos designs: vestidos, tops, jeans, sapatos, malas e acess\u00f3rios. Envio gratuito a partir de 30 \u20ac - Devolu\u00e7\u00f5es durante 30 dias"
+            },
+            {
+                "title": "20 Best Mango Recipes | What to Make with Mango | Recipes ...",
+                "link": "https://www.foodnetwork.com/recipes/photos/mango-recipes",
+                "description": "Mango Float. You'll want the ripest and juiciest mangoes to really do justice to this popular Filipino dessert. Made of layered whipped sweetened cream, graham cracker crumbs and fruit that's ..."
+            },
+            {
+                "title": "Mod\u0103 pentru Femei | Mango Rom\u00e2nia",
+                "link": "https://shop.mango.com/ro/femei",
+                "description": "Valabil \u00een magazinele \u0219i online din Rom\u00e2nia. In limita stocului disponibil. Discountul maxim se aplic\u0103 la colec\u021bia pentru femei Mango. Pentru restul liniilor de produse, se aplic\u0103 un discount egal sau mai mic. Discountul nu se aplic\u0103 noii colec\u021bii. Discountul anun\u021bat se va aplica pre\u021bului marcat la \u00eenceputul sezonului."
+            }
+        ]
+    },
+    "error": null
+}
